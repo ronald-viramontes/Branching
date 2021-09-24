@@ -14,5 +14,8 @@
   'git checkout branchName'
 * 'git config -l' - git configuration history
 
-##
+## Remote Commands
+* 'git remote add origin someRemoteRepoURL'
+* 'git push origin main'
+    git push origin newBranch
 ##
